@@ -6,8 +6,8 @@ frase="Se feliz"#4
 lista=[name,apell,estatura,no_c,frase]
 #len es para ver el tamano de la lista
 print (lista,type(lista))
-#appened agrega el objeto de la lista al final de esta
-#lista.appened (90)
+#append agrega el objeto de la lista al final de esta
+#lista.append (90)
 #index devuelve el indice del objeto enviado
 print (lista.index(apell))
 #count cuantos objetos hay en la lista
